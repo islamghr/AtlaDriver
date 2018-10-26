@@ -1,0 +1,250 @@
+{
+  "project_info": {
+    "project_number": "542438950681",
+    "firebase_url": "https://voodoo-8393e.firebaseio.com",
+    "project_id": "voodoo-8393e",
+    "storage_bucket": "voodoo-8393e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542438950681:android:87645101178f4aca",
+        "android_client_info": {
+          "package_name": "com.atlaapp.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542438950681-pd9o6n1j9lug9g3c416snj5hsu0dhtde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vYwToPwrGbrAH5MrYehRXjVmrASveFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542438950681:android:434f366809bf69af",
+        "android_client_info": {
+          "package_name": "com.voddoo.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542438950681-pd9o6n1j9lug9g3c416snj5hsu0dhtde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vYwToPwrGbrAH5MrYehRXjVmrASveFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542438950681:android:5acea63977313148",
+        "android_client_info": {
+          "package_name": "com.voddoo.voddooapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542438950681-febujknqrjh6huv5rfpdt0ojkgi4kul2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voddoo.voddooapp",
+            "certificate_hash": "238967f33c70fdf646b3dbc4f9e7dc3c5153b95c"
+          }
+        },
+        {
+          "client_id": "542438950681-omn36mdpg0fbn6fu2qqi506vbm3n5rts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voddoo.voddooapp",
+            "certificate_hash": "9bba80d2b5574881cefcdfed809a85dd5c0fd147"
+          }
+        },
+        {
+          "client_id": "542438950681-93dvmu0nkg1lst1f2q22ghs8ttp2vmqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voddoo.voddooapp",
+            "certificate_hash": "ec009a740c7bc18a1fbd59359d6497cc53b723bd"
+          }
+        },
+        {
+          "client_id": "542438950681-pd9o6n1j9lug9g3c416snj5hsu0dhtde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vYwToPwrGbrAH5MrYehRXjVmrASveFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542438950681-pd9o6n1j9lug9g3c416snj5hsu0dhtde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542438950681-snhvrca9pokgrn3mp22f92h41otm2vbd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.voodoo.Voodoo-App"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542438950681:android:93195a46ecc9a7e8",
+        "android_client_info": {
+          "package_name": "com.voodooapp.Hovodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542438950681-6hggfqpenptkvpa52un842em538aihk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voodooapp.Hovodriver",
+            "certificate_hash": "238967f33c70fdf646b3dbc4f9e7dc3c5153b95c"
+          }
+        },
+        {
+          "client_id": "542438950681-e23bful48e26v8952ph65rhuhmab7k0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voodooapp.Hovodriver",
+            "certificate_hash": "9bba80d2b5574881cefcdfed809a85dd5c0fd147"
+          }
+        },
+        {
+          "client_id": "542438950681-pd9o6n1j9lug9g3c416snj5hsu0dhtde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vYwToPwrGbrAH5MrYehRXjVmrASveFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542438950681-pd9o6n1j9lug9g3c416snj5hsu0dhtde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542438950681-snhvrca9pokgrn3mp22f92h41otm2vbd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.voodoo.Voodoo-App"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542438950681:android:1f181f9053a2255d",
+        "android_client_info": {
+          "package_name": "com.voodooapp.voodoodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542438950681-bv1328p0e5pmfgqqchc3jdjt51v8gu2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voodooapp.voodoodriver",
+            "certificate_hash": "238967f33c70fdf646b3dbc4f9e7dc3c5153b95c"
+          }
+        },
+        {
+          "client_id": "542438950681-pd9o6n1j9lug9g3c416snj5hsu0dhtde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vYwToPwrGbrAH5MrYehRXjVmrASveFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542438950681-pd9o6n1j9lug9g3c416snj5hsu0dhtde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542438950681-snhvrca9pokgrn3mp22f92h41otm2vbd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.voodoo.Voodoo-App"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

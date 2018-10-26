@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="nkdroid.tutorial.navigationview.MainActivity">
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/profile_lm"
+            android:title="profile"
+            android:icon="@drawable/account"/>
+        <item
+            android:id="@+id/wallet_lm"
+            android:title="wallet"
+            android:icon="@drawable/credit_card"/>
+        <item
+            android:title="my trips"
+            android:icon="@drawable/history"/>
+        <!--<item-->
+            <!--android:title="Setting"-->
+            <!--android:icon="@drawable/settings"/>-->
+        <item
+            android:title="cantact us"
+            android:icon="@drawable/alert_circle_outline"/>
+        <item
+            android:id="@+id/logout_lm"
+            android:title="logout"
+            android:icon="@drawable/logout"/>
+
+
+    </group>
+</menu>
